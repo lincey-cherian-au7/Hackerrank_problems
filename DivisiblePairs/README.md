@@ -1,0 +1,1 @@
+Given an array of integers and a positive integer , determine the number of  pairs and ar[i] + ar[j]  is divisible by k
